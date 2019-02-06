@@ -1,10 +1,15 @@
-watchX Diag v0.3
+# watchX Diag
+![](https://img.shields.io/github/license/venice1200/watchX-Diag.svg?style=flat) 
+  
+Basic watchX Hardware Diagnostic Sketch  
+  
+v0.3
 Added i2c Detection of MLX Magnetometer on watchX v1.3
 
-watchX Diag v0.2
+v0.2
 Added Battery Voltage, USB Power and Charging Detection  
   
-watchX Diag v0.1
+v0.1
 Simple Sketch for checking watchX Hardware
 Need only WatchX Libraries
 

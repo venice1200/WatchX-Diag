@@ -26,9 +26,9 @@ The Buzzer beeps at the end of the i2c scan and shows the result.
 If a Button is pressed the Oled shows a short Text and the Buzzer do one beep.  
 The LEDs blinking all the time.  
 
-i2c Devices on WatchX
-0x0E MAG3110  Magnetometer on watchX 1.2
-0x19 MLX90393 Magnetometer on watchX 1.3
-0x68 DS3231   Real Time Clock
-0x69 MPU6050  Gyroscope/Accelerometer
-0x76 BMP280   Temperature/Pressure
+i2c Devices on WatchX  
+0x0E MAG3110  Magnetometer on watchX 1.2  
+0x19 MLX90393 Magnetometer on watchX 1.3  
+0x68 DS3231   Real Time Clock  
+0x69 MPU6050  Gyroscope/Accelerometer  
+0x76 BMP280   Temperature/Pressure  

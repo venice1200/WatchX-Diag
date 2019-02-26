@@ -21,10 +21,10 @@ Checking
 * Buzzer
 * Buttons
   
-The Bluetooth Module is checked in "setup()".
-The Buzzer beeps at the end of the i2c scan and shows the result.
-If a Button is pressed the Oled shows a short Text and the Buzzer do one beep.
-The LEDs blinking all the time.
+The Bluetooth Module is checked in "setup()".  
+The Buzzer beeps at the end of the i2c scan and shows the result.  
+If a Button is pressed the Oled shows a short Text and the Buzzer do one beep.  
+The LEDs blinking all the time.  
 
 i2c Devices on WatchX
 0x0E MAG3110  Magnetometer on watchX 1.2
